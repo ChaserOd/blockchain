@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Launch Your Own Coin | Pancono Blockchain Airdrop</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-950 text-gray-200 font-sans">
+
+  <!-- Header -->
+  <header class="text-center py-10 bg-gradient-to-b from-yellow-500/20 to-transparent">
+    <h1 class="text-4xl md:text-5xl font-bold text-yellow-400">🚀 Launch Your Own Coin for FREE</h1>
+    <p class="text-lg mt-2 text-gray-300">Pancono Layer-1 Blockchain Ecosystem</p>
+  </header>
+
+  <!-- Section 1 -->
+  <section class="max-w-5xl mx-auto px-6 py-10">
+    <h2 class="text-3xl font-bold text-yellow-400 mb-4">Have you ever launched your own crypto coin or token?</h2>
+    <p class="leading-7 text-gray-300">
+      Or are you interested in creating your own brand-name coin <strong>for FREE</strong> at our Pancono Blockchain ecosystem?
+      With the Pancono Layer-1 Blockchain, you can launch your own custom cryptocurrency — <strong>your brand, your coin, your community</strong> — powered by a true
+      peer-to-peer blockchain.
+    </p>
+
+    <div class="mt-6 p-6 bg-gray-900 border border-yellow-500/40 rounded-xl shadow-lg">
+      <p class="leading-7">
+        Start your own Layer-1 blockchain with a native coin (named anything you want). Same concept as Bitcoin but with your own
+        branding. <strong>All done-for-you system — 100% FREE.</strong> Just join us and begin.
+      </p>
+      <p class="mt-4 leading-7 text-yellow-300">
+        When you launch your own blockchain, you become the <strong>first miner</strong> and majority holder (typically 5–10% of supply).  
+        As the user base grows, the value of the coins you hold grows automatically — long-term massive profit.
+      </p>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="text-center mt-10">
+    <h3 class="text-2xl font-bold text-yellow-400 mb-2">💡 Become a blockchain founder — FREE</h3>
+    <p class="text-gray-300 mb-4">Build, grow & earn with the Pancono ecosystem.</p>
+    <a href="https://github.com/ChaserOd/PanconoTestnet/releases/tag/v1.0.0-testnet"
+       class="inline-block bg-yellow-500 text-black font-semibold px-8 py-3 rounded-lg hover:bg-yellow-400 transition">
+      ⬇ Download Pancono Core Wallet (Windows)
+    </a>
+    <p class="mt-2 text-sm text-gray-400">Testnet version — explore full blockchain functions.</p>
+
+    <a href="https://youtu.be/9lVpLvNUKNA"
+       class="block mt-4 text-yellow-300 underline hover:text-yellow-200 transition">
+      ▶ Watch how the wallet works
+    </a>
+  </section>
+
+  <!-- Section 2 -->
+  <section class="max-w-5xl mx-auto px-6 py-12">
+    <h3 class="text-3xl font-bold text-yellow-400 mb-4">💼 What you will get</h3>
+    <ul class="space-y-3 text-gray-300 leading-7">
+      <li>✔ Fully customized <strong>Pancono Core Wallet</strong> with your brand name + coin name</li>
+      <li>✔ Launch as your own Testnet and distribute to your community</li>
+      <li>✔ Upgrade to <strong>Mainnet Blockchain</strong> anytime once your Testnet gains traction</li>
+      <li>✔ <strong>Full technical support</strong> throughout your project</li>
+    </ul>
+  </section>
+
+  <!-- Section 3 -->
+  <section class="max-w-5xl mx-auto px-6 py-12">
+    <h3 class="text-3xl font-bold text-yellow-400 mb-4">⚙ Blockchain & Wallet Capabilities</h3>
+
+    <div class="grid md:grid-cols-2 gap-8 text-gray-300">
+      <ul class="space-y-2">
+        <li>• Full blockchain system</li>
+        <li>• Proof-of-Work mining</li>
+        <li>• Wallet send / receive</li>
+        <li>• Secure private key storage</li>
+        <li>• UTXO transaction model</li>
+        <li>• LevelDB blockchain storage</li>
+      </ul>
+      <ul class="space-y-2">
+        <li>• Peer-to-peer networking</li>
+        <li>• SHA-256 cryptographic security</li>
+        <li>• Mempool management</li>
+        <li>• RPC & CLI support</li>
+        <li>• On-chain wallet address generation</li>
+        <li>• Native coin balance tracking</li>
+      </ul>
+    </div>
+
+    <p class="mt-6 leading-7 text-yellow-300">
+      In simple terms — you get your <strong>own Layer-1 blockchain + native coin</strong>, similar to Bitcoin but under your brand.
+    </p>
+  </section>
+
+  <!-- Section 4 -->
+  <section class="max-w-5xl mx-auto px-6 py-10">
+    <h3 class="text-3xl font-bold text-yellow-400 mb-4">💰 Already launched a token?</h3>
+    <p class="leading-7 text-gray-300">
+      Even if you already have ERC-20 / BSC tokens, you can still add a blockchain version of your project at Pancono.
+    </p>
+    <ul class="mt-4 space-y-2 text-gray-300">
+      <li>• Get the wallet branded to your coin</li>
+      <li>• Use mining terminal to boost adoption</li>
+      <li>• Promote both blockchain + token ecosystem</li>
+    </ul>
+  </section>
+
+  <!-- Free Opportunity -->
+  <section class="bg-yellow-500/10 border-t border-b border-yellow-500/30 py-10 text-center">
+    <h3 class="text-3xl font-bold text-yellow-400 mb-3">🎁 100% FREE Opportunity</h3>
+    <p class="text-gray-200 mb-6 max-w-3xl mx-auto">
+      We are giving this entire opportunity completely free to early ecosystem partners.
+      If you're interested in launching your own Layer-1 blockchain and coin — reply back to get started.
+    </p>
+    <a class="inline-block bg-yellow-500 text-black font-semibold px-8 py-3 rounded-lg hover:bg-yellow-400 transition">
+      📌 Fill the Google Form (Invitation by Pancono Community Member)
+    </a>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-8 text-center text-gray-500 text-sm">
+    © 2025 Pancono Blockchain — Decentralized Layer-1 Ecosystem
+  </footer>
+
+</body>
+</html>
