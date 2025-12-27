@@ -145,15 +145,7 @@
   Copy Core Wallet Download Link
 </button>
 
-<script>
-  function copyLink() {
-    const link = "https://github.com/ChaserOd/core_wallet/releases/tag/core_wallet_point";
-    navigator.clipboard.writeText(link).then(() => {
-      alert("Link copied to clipboard!");
-    }).catch(() => {
-      alert("Failed to copy link. Please copy manually.");
-    });
-  }
+
 
 
    
@@ -186,7 +178,16 @@
 
 
 </section>
-
+   
+<script>
+  function copyLink() {
+    const link = "https://github.com/ChaserOd/core_wallet/releases/tag/core_wallet_point";
+    navigator.clipboard.writeText(link).then(() => {
+      alert("Link copied to clipboard!");
+    }).catch(() => {
+      alert("Failed to copy link. Please copy manually.");
+    });
+  }
 
   <!-- Footer -->
   <footer class="py-8 text-center text-gray-500 text-sm">
