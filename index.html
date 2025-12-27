@@ -138,6 +138,25 @@
   To get started, we have build a core wallet which has mining facility for users to claim points. Copy this Core Wallet download link:  https://github.com/ChaserOd/core_wallet/<br />releases/tag/core_wallet_point and share it across social media platforms. You can also create dedicated airdrop accounts on X and Telegram airdrop page. From there promote and distribute the link. Any users who download the wallet will start mining points. 
 </p>
 
+
+<button 
+  onclick="copyLink()" 
+  class="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg shadow-md transition">
+  Copy Core Wallet Download Link
+</button>
+
+<script>
+  function copyLink() {
+    const link = "https://github.com/ChaserOd/core_wallet/releases/tag/core_wallet_point";
+    navigator.clipboard.writeText(link).then(() => {
+      alert("Link copied to clipboard!");
+    }).catch(() => {
+      alert("Failed to copy link. Please copy manually.");
+    });
+  }
+
+
+   
 <p class="text-gray-200 mb-6 max-w-3xl mx-auto">
  As thousand and millions of users start mining and as your project grows and gains popularity, we will launch your project on a parallel mainnet blockchain within the Pancono ecosystem fro free under PAN-20 Token standard.
 </p>
